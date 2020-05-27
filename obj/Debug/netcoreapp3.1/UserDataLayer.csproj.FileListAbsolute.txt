@@ -1,0 +1,17 @@
+C:\Users\root\source\repos\UserDataLayer\bin\Debug\netcoreapp3.1\config-back-ups\appsettings.Development.json
+C:\Users\root\source\repos\UserDataLayer\bin\Debug\netcoreapp3.1\config-back-ups\appsettings.json
+C:\Users\root\source\repos\UserDataLayer\bin\Debug\netcoreapp3.1\UserDataLayer.deps.json
+C:\Users\root\source\repos\UserDataLayer\bin\Debug\netcoreapp3.1\UserDataLayer.runtimeconfig.json
+C:\Users\root\source\repos\UserDataLayer\bin\Debug\netcoreapp3.1\UserDataLayer.runtimeconfig.dev.json
+C:\Users\root\source\repos\UserDataLayer\bin\Debug\netcoreapp3.1\UserDataLayer.dll
+C:\Users\root\source\repos\UserDataLayer\bin\Debug\netcoreapp3.1\UserDataLayer.pdb
+C:\Users\root\source\repos\UserDataLayer\bin\Debug\netcoreapp3.1\CrossCuttingExtensions.dll
+C:\Users\root\source\repos\UserDataLayer\bin\Debug\netcoreapp3.1\CryptographyLayer.dll
+C:\Users\root\source\repos\UserDataLayer\bin\Debug\netcoreapp3.1\CrossCuttingExtensions.pdb
+C:\Users\root\source\repos\UserDataLayer\bin\Debug\netcoreapp3.1\CryptographyLayer.pdb
+C:\Users\root\source\repos\UserDataLayer\obj\Debug\netcoreapp3.1\UserDataLayer.csprojAssemblyReference.cache
+C:\Users\root\source\repos\UserDataLayer\obj\Debug\netcoreapp3.1\UserDataLayer.AssemblyInfoInputs.cache
+C:\Users\root\source\repos\UserDataLayer\obj\Debug\netcoreapp3.1\UserDataLayer.AssemblyInfo.cs
+C:\Users\root\source\repos\UserDataLayer\obj\Debug\netcoreapp3.1\UserDataLayer.csproj.CopyComplete
+C:\Users\root\source\repos\UserDataLayer\obj\Debug\netcoreapp3.1\UserDataLayer.dll
+C:\Users\root\source\repos\UserDataLayer\obj\Debug\netcoreapp3.1\UserDataLayer.pdb
